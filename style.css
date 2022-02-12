@@ -1,6 +1,10 @@
 .container{
     background-color: rgba(230, 223, 223, 0.527);
 }
+#input-box{
+    font-size: 24px;
+    font-weight: 600;
+}
 .button{
     font-size: 24px;
     width: 55px;
